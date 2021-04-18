@@ -1,1 +1,3 @@
-# Risk-control-competition
+这是一个完整的风控项目比赛，内容较多，数据复杂，数据维度200+，最终采用Xgboost做特征筛选和lightGBM做模型Bagging，十分贴近实际工业界  
+
+更多的细节，请查阅项目报告
